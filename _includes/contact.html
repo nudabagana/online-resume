@@ -17,6 +17,12 @@
         <a href="tel:{{ contact.phone }}">{{ contact.phone }}</a>
     </li>
     {% endif %}
+    
+    {% if contact.linkedin %}
+    <li class="linkedin"><i class="fa-brands fa-linkedin"></i>
+        <a href="https://linkedin.com/in/{{ contact.linkedin }}" target="_blank">{{ contact.linkedin }}</a>
+    </li>
+    {% endif %}
 
     {% if contact.website %}
     <li class="website"><i class="fa-solid fa-globe"></i>
@@ -69,12 +75,6 @@
     {% if contact.researchgate %}
     <li class="researchgate"><i class="fa-brands fa-researchgate"></i>
         <a href="https://www.researchgate.net/profile/{{ contact.researchgate }}" target="_blank">{{ contact.researchgate }}</a>
-    </li>
-    {% endif %}
-
-    {% if contact.linkedin %}
-    <li class="linkedin"><i class="fa-brands fa-linkedin"></i>
-        <a href="https://linkedin.com/in/{{ contact.linkedin }}" target="_blank">{{ contact.linkedin }}</a>
     </li>
     {% endif %}
 
