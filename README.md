@@ -1,6 +1,6 @@
 # Online-resume
 
-Matas Ramanauskas Resume. Forked from https://github.com/tarrex/online-resume.
+Matas Ramanauskas Resume.
 
 ---
 
