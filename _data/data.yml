@@ -83,11 +83,11 @@ skills:
   display: true
   title: Skills
   details: |
-    + **LANGUAGES**: Typescript, Javascript, Java, HTML, CSS, C#, Python, C++.
-    + **FRONT END TECHNOLOGIES**: React, Apollo GraphQL, Next.js, Redux, styled-components, Storybook, Recharts, Tailwind CSS, Vite.
-    + **BACK END TECHNOLOGIES**: Node.js, GraphQL, RabbitMQ, PostgreSQL, TypeORM.
-    + **CI/CD TECHNOLOGIES**: Docker, Kubernetes, Google Cloud Platform, GitHub worklows, Cloudflare, Vercel.
-    + **TOOLS**: Arch Linux, VSCode, Docker, tmux, Postman, Obsidian, Jira, Wrike, github, gitlab, bitbucket.
+    + **Languages**: Typescript, Javascript, Java, HTML, CSS, C#, Python, C++.
+    + **Front end technologies**: React, Apollo GraphQL, Next.js, Redux, styled-components, Storybook, Recharts, Tailwind CSS, Vite.
+    + **Back end technologies**: Node.js, GraphQL, RabbitMQ, PostgreSQL, TypeORM.
+    + **CI/CD technologies**: Docker, Kubernetes, Google Cloud Platform, GitHub worklows, Cloudflare, Vercel.
+    + **Tools**: Arch Linux, VSCode, Docker, tmux, Postman, Obsidian, Jira, Wrike, github, gitlab, bitbucket.
 
 education:
   display: true
