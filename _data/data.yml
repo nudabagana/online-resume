@@ -93,27 +93,10 @@ education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
+    - university: Vilnius University
+      time: 2015 - 2019
+      major: Computer Software Engineering
       degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
 
 certificates:
   display: true
