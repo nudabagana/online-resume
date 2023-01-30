@@ -1,32 +1,31 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Matas Ramanauskas
   avatar:
     display: true
     path: profile.png
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
+  email: matasramanauskas@gmail.com
+  phone:
+  website:
   wechat:
   whatsapp:
   telegram:
-  github: github
+  github: https://github.com/nudabagana
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/matas-ramanauskas-499084169/
   medium:
-  twitter: twitter
+  twitter:
   stackoverflow:
   quora:
   goodreads:
 
 profile:
-  display: true
+  display: false
   title: Profile
   details: |
     It's your career profile, you can wirte markdown format text.
