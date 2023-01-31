@@ -46,7 +46,7 @@ experiences:
       details: |
         + Developed and maintained webapp of cryptocurrency exchange using React.JS. It allowed thousands of users to manage and exchange their assets and make investments.
         + Developed and maintained GraphQL Node.Js service which made data from back end services structured and easily accessible by front end applications.
-        + Ideated and created design library using Storybook, Vite, GitHub workflows. This greatly decreased designing time of new pages, made UI style consistent among all company products and improved the quality of UI components by making them easily testable.
+        + Ideated and created a design library using Storybook, Vite, GitHub workflows. This significantly decreased the designing time of new pages, made UI style consistent among all company products and improved the quality of UI components by making them easily testable.
         + Engineered live data feed by using ws, RabbitMQ and GraphQL. Live data feed greatly decreased server load and increased user satisfaction by making them see information changes instantly (as opposed to with polling delay).
         + Devised crypto arbitrage bot by using Node.JS and React which made 5-10% monthly profit.
         + Introduced multilanguage support using i18next which increased page accessibility.
@@ -71,7 +71,7 @@ experiences:
       tag: full-time
       location: Šiauliai, Lithuania
       details: |
-        + Analyzed customers needs and provided required solutions for their internet and cable connection. This included modem, router setups and wiring.
+        + Analyzed customer's needs and provided required solutions for their internet and cable connection. This included modem, router setups and wiring.
         + Replaced and updated hardware and cables outside.
 
 
@@ -99,7 +99,7 @@ skills:
     + **Languages**: Typescript, Javascript, Java, HTML, CSS, C#, Python, C++.
     + **Front end technologies**: React, Apollo GraphQL, Next.js, Redux, Formik, styled-components, Storybook, Recharts, Tailwind CSS, Vite.
     + **Back end technologies**: Node.js, GraphQL, RabbitMQ, PostgreSQL, TypeORM.
-    + **CI/CD technologies**: Docker, Kubernetes, Google Cloud Platform, GitHub worklows, Cloudflare, Vercel.
+    + **CI/CD technologies**: Docker, Kubernetes, Google Cloud Platform, GitHub workflows, Cloudflare, Vercel.
     + **Tools**: Arch Linux, VS Code, Docker, tmux, Postman, Obsidian, Jira, Wrike, GitHub, GitLab, Bitbucket.
 
 education:
