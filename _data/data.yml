@@ -17,7 +17,7 @@ contact:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin: matas-ramanauskas-499084169
+  linkedin: matas-ramanauskas
   medium:
   twitter:
   stackoverflow:
@@ -53,7 +53,7 @@ experiences:
         + Designed multi page forms using Formik for doing KYC, AML checks and accepting business proposals.
         + Updated and maintained CI/CD processes including Bitbucket pipelines, Docker and GKE configurations. This increased system stability and security, decreased build times and allowed adding of new features.
         + Planned multiple self-improvement initiatives, including monthly learning time, knowledge sharing and conference visits.
-        + Promoted and helped implement agile principles in our team such as daily stand-ups, sprints, planning and retro meetings.
+        + Promoted and helped implement Agile principles in our team such as daily stand-ups, sprints, planning and retro meetings.
 
     - role: ATP Developer
       time: 2016.07 - 2016.09
