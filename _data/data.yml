@@ -44,11 +44,17 @@ experiences:
       tag: full-time
       location: Vilnius, Lithuania
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + Designverse (workflows, packaged, etc)
+        + 90% of Front end
+        + GraphQL client
+        + Live data feed with rabbit and graphQL
+        + Crypto arbitrage bot
+        + Custom forms
+        + updated/fixed deployments
+        + multilang
+        + lead learning initiatives
+        + promoted/advocated and added agile practices, code reviews
 
-        ...
 
     - role: ATP Developer
       time: 2016.07 - 2016.09
@@ -56,11 +62,9 @@ experiences:
       tag: full-time
       location: Vilnius, Lithuania
       details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
+        + Developed automated tests for multiple in house solutions using C#.
+        + Created parsers for test results to increase their readability and improve data collection proccess.
+        + Updated pre-commit scripts to make development flow faster.
         
     - role: Assistant worker
       time: 2014.07 - 2014.08
@@ -68,11 +72,9 @@ experiences:
       tag: full-time
       location: Šiauliai, Lithuania
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + Analyzed customers needs and provided required solutions for their internet and cable connection. This included modem, router setups and wiring.
+        + Replaced and updated hardware and cables outside.
 
-        ...
 
 projects:
   display: false
@@ -96,10 +98,10 @@ skills:
   title: Skills
   details: |
     + **Languages**: Typescript, Javascript, Java, HTML, CSS, C#, Python, C++.
-    + **Front end technologies**: React, Apollo GraphQL, Next.js, Redux, styled-components, Storybook, Recharts, Tailwind CSS, Vite.
+    + **Front end technologies**: React, Apollo GraphQL, Next.js, Redux, Formik, styled-components, Storybook, Recharts, Tailwind CSS, Vite.
     + **Back end technologies**: Node.js, GraphQL, RabbitMQ, PostgreSQL, TypeORM.
     + **CI/CD technologies**: Docker, Kubernetes, Google Cloud Platform, GitHub worklows, Cloudflare, Vercel.
-    + **Tools**: Arch Linux, VSCode, Docker, tmux, Postman, Obsidian, Jira, Wrike, github, gitlab, bitbucket.
+    + **Tools**: Arch Linux, VS Code, Docker, tmux, Postman, Obsidian, Jira, Wrike, GitHub, GitLab, Bitbucket.
 
 education:
   display: true
