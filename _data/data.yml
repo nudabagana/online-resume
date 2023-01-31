@@ -44,17 +44,16 @@ experiences:
       tag: full-time
       location: Vilnius, Lithuania
       details: |
-        + Designverse (workflows, packaged, etc)
-        + 90% of Front end
-        + GraphQL client
-        + Live data feed with rabbit and graphQL
-        + Crypto arbitrage bot
-        + Custom forms
-        + updated/fixed deployments
-        + multilang
-        + lead learning initiatives
-        + promoted/advocated and added agile practices, code reviews
-
+        + Developed and maintained webapp of cryptocurrency exchange using React.JS. It let thousands of users manage and exchange their assets and make investments.
+        + Developed and maintained GraphQL Node.Js service which made back end services data structured and easily accessable by front end applications.
+        + Ideated and created design library using Storybook, Vite, GitHub worflows. This greatly decreased designing time of new pages, made UI style consistent among all company products and improved the quality of UI components by making them easily testable.
+        + Engineered live data feed by using ws, RabbitMQ and GraphQL. Live data feed greatly decreased server load and increased user satisfaction by making them see information changes instantly (as opposed to with polling delay).
+        + Devised crypto arbitrage bot by using Node.JS and React which made 5-10% monthly profit.
+        + Introduced multilanguage support using i18next which increased page accessability.
+        + Designed multi page forms using Formik for doing KYC, AML checks and accepting business proposals.
+        + Updated and maintained CI/CD processes including Bitbucket pipelines, Docker and GKE configurations. This increased system stability and security, decreased build times and allowed adding new features.
+        + Planned multiple self improvement initiatives, including monthly learning time, knowledge sharing and conference visits.
+        + Promoted and helped implement agile principles in our team such as daily stand-ups, sprints, planning and retro meetings.
 
     - role: ATP Developer
       time: 2016.07 - 2016.09
