@@ -38,11 +38,11 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+    - role: Full-Stack Engineer
+      time: 2019.03 - Present
+      company: Bitlocus LT, UAB
+      tag: full-time
+      location: Vilnius, Lithuania
       details: |
         Experience in this company:
         + First
@@ -50,11 +50,23 @@ experiences:
 
         ...
 
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: ATP Developer
+      time: 2016.07 - 2016.09
+      company: Bentley Systems Europe
+      tag: full-time
+      location: Vilnius, Lithuania
+      details: |
+        Experience in this company:
+        + First
+        + Second
+
+        ...
+        
+    - role: Assistant worker
+      time: 2014.07 - 2014.08
+      company: Splius UAB
+      tag: full-time
+      location: Šiauliai, Lithuania
       details: |
         Experience in this company:
         + First
