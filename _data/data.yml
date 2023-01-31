@@ -36,7 +36,7 @@ profile:
 
 experiences:
   display: true
-  title: Experiences
+  title: Experience
   items:
     - role: Full-Stack Engineer
       time: 2019.03 - Present
