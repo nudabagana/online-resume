@@ -65,14 +65,14 @@ experiences:
         + Created parsers for test results to increase their readability and improve data collection process.
         + Updated pre-commit scripts to make development flow faster.
         
-    - role: Assistant worker
-      time: 2014.07 - 2014.08
-      company: Splius UAB
-      tag: full-time
-      location: Šiauliai, Lithuania
-      details: |
-        + Analyzed customer's needs and provided required solutions for their internet and cable connection. This included modem, router setups and wiring.
-        + Replaced and updated hardware and cables outside.
+#     - role: Assistant worker
+#       time: 2014.07 - 2014.08
+#       company: Splius UAB
+#       tag: full-time
+#       location: Šiauliai, Lithuania
+#       details: |
+#         + Analyzed customer's needs and provided required solutions for their internet and cable connection. This included modem, router setups and wiring.
+#         + Replaced and updated hardware and cables outside.
 
 
 projects:
