@@ -38,8 +38,22 @@ experiences:
   display: true
   title: Experience
   items:
+      - role: Full-Stack Engineer
+      time: 2023.02 - Present
+      company: Revel Systems
+      tag: full-time
+      location: Vilnius, Lithuania
+      details: |
+        + Developed and maintained Go and Swift microservices responsible for core calculations. This allowed millions of users to order food 24/7.
+        + (TBD)
+        # + ios Guild
+        # + reduced build time
+        # + added coding standards
+        # + promoted "sane" agile.
+       
+        
     - role: Full-Stack Engineer
-      time: 2019.03 - Present
+      time: 2019.02 - 2023.02
       company: Bitlocus LT, UAB
       tag: full-time
       location: Vilnius, Lithuania
@@ -96,11 +110,11 @@ skills:
   display: true
   title: Skills
   details: |
-    + **Languages**: Typescript, Javascript, Java, HTML, CSS, C#, Python, C++.
-    + **Front end technologies**: React, Apollo GraphQL, Next.js, Redux, Formik, styled-components, Storybook, Recharts, Tailwind CSS, Vite.
-    + **Back end technologies**: Node.js, GraphQL, RabbitMQ, PostgreSQL, TypeORM.
-    + **CI/CD technologies**: Docker, Kubernetes, Google Cloud Platform, GitHub workflows, Cloudflare, Vercel.
-    + **Tools**: Arch Linux, VS Code, Docker, tmux, Postman, Obsidian, Jira, Wrike, GitHub, GitLab, Bitbucket.
+    + **Languages**: Typescript, Go, Kotlin, Java, HTML, CSS, Swift, Python, C#, C++.
+    + **Front end technologies**: React, Apollo GraphQL, Next.js, Redux, Formik, styled-components, Storybook, Recharts, Tailwind CSS, Vite, HTMX.
+    + **Back end technologies**: Node.js, RabbitMQ, Kafka, GraphQL, PostgreSQL, TypeORM.
+    + **CI/CD technologies**: Google Cloud, AWS, Kubernetes, Docker, Terraform, GitHub workflows, Cloudflare, Vercel.
+    + **Tools**: Arch Linux, MacOS, VS Code, XCode, Docker, tmux, Postman, Obsidian, Jira, Wrike, GitHub, GitLab, Bitbucket.
 
 education:
   display: true
@@ -186,6 +200,10 @@ interests:
     - item: Cocktails
       link:
     - item: Crafts
+      link:
+    - item: Traveling
+      link:
+    - item: Movies, TV Series, Anime
       link:
 
 evaluation:
