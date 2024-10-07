@@ -48,7 +48,7 @@ experiences:
         + Facilitated iOS Guild meetings. This allowed developers of our company to align with each other and learn. Doing so drastically improved code quality.
         + Reduced main app build times by 5x times by optimising build tools and their setups.
         + Increased test pipeline success rate from 40% to 95%. This greatly reduced waiting times from commit to merge.
-        + Added company-wide iOS coding standards enforced by lint. This reduced overall code-review time which resulted in faster featre delivery.
+        + Established company-wide iOS coding standards enforced by lint. This reduced overall code-review time which resulted in faster featre delivery.
         + Advocated "sane" agile practices. Which helped our team stay organised and use our time efficiently.
        
         
