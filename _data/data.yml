@@ -38,18 +38,18 @@ experiences:
   display: true
   title: Experience
   items:
-      - role: Full-Stack Engineer
+    - role: Full-Stack Engineer
       time: 2023.02 - Present
       company: Revel Systems
       tag: full-time
       location: Vilnius, Lithuania
       details: |
         + Developed and maintained Go and Swift microservices responsible for core calculations. This allowed millions of users to order food 24/7.
-        + (TBD)
-        # + ios Guild
-        # + reduced build time
-        # + added coding standards
-        # + promoted "sane" agile.
+        + Facilitated iOS Guild meetings. This allowed developers of our company to align with each other and learn. Doing so drastically improved code quality.
+        + Reduced main app build times by 5x times by optimising build tools and their setups.
+        + Increased test pipeline success rate from 40% to 95%. This greatly reduced waiting times from commit to merge.
+        + Added company-wide iOS coding standards enforced by lint. This reduced overall code-review time which resulted in faster featre delivery.
+        + Advocated "sane" agile practices. Which helped our team stay organised and use our time efficiently.
        
         
     - role: Full-Stack Engineer
