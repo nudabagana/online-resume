@@ -47,12 +47,12 @@ experiences:
       details: |
         + Played a key role in initiating, developing, and launching the POS Mobile Android app, which strengthened the company's market position and competitive advantage.
         + Led the design and development of a prototyping app that empowered fast-paced user testing, directly supporting merchant-tailored product enhancements.
-        + Facilitated iOS Guild meetings. This allowed developers of our company to align with each other and learn. Doing so drastically improved code quality.
+        + Facilitated iOS Guild meetings. This allowed developers of our company to align with each other and learn, leading to improved consistency and fewer bugs.
         + Developed a company-wide tutorial library for in-app tooltips, enhancing user onboarding, accelerating new feature adoption, and reducing support inquiries—ultimately improving client satisfaction and product perception.
-        + Reduced iOS app build times by 5x times by optimising build tools and their setups.
+        + Reduced iOS app build times by 5x through optimization of build tools, significantly speeding up development feedback loops.
         + Increased test pipeline success rate from 40% to 100%. This greatly reduced waiting times from commit to merge.
         + Developed and maintained Go and Swift microservices responsible for core calculations. This allowed millions of users to order food 24/7.
-        + Established company-wide iOS coding standards enforced by lint. This reduced overall code-review time which resulted in faster featre delivery.
+        + Established company-wide iOS coding standards enforced by lint. This reduced overall code-review time which resulted in faster feature delivery.
        
         
     - role: Full-Stack Engineer
@@ -61,13 +61,13 @@ experiences:
       tag: full-time
       location: Vilnius, Lithuania
       details: |
-        + Developed and maintained webapp of cryptocurrency exchange using React.JS. It allowed thousands of users to manage and exchange their assets and make investments.
+        + Developed and maintained a cryptocurrency exchange web app using React, serving thousands of users and enabling seamless asset management and investment.
         + Developed and maintained GraphQL Node.Js service which made data from back end services structured and easily accessible by front end applications.
         + Ideated and created a design library using Storybook, Vite, GitHub workflows. This significantly decreased the designing time of new pages, made UI style consistent among all company products and improved the quality of UI components by making them easily testable.
-        + Engineered live data feed by using ws, RabbitMQ and GraphQL. Live data feed greatly decreased server load and increased user satisfaction by making them see information changes instantly (as opposed to with polling delay).
+        + Engineered live data feed by using WebSockets, RabbitMQ and GraphQL — reducing server load and increasing real-time app responsiveness.
         + Devised crypto arbitrage bot by using Node.JS and React which made 5-10% monthly profit.
         + Introduced multilanguage support using i18next which increased page accessibility.
-        + Designed multi page forms using Formik for doing KYC, AML checks and accepting business proposals.
+        + Designed multi-page forms using Formik for doing KYC, AML checks and accepting business proposals.
         + Updated and maintained CI/CD processes including Bitbucket pipelines, Docker and GKE configurations. This increased system stability and security, decreased build times and allowed adding of new features.
         + Planned multiple self-improvement initiatives, including monthly learning time, knowledge sharing and conference visits.
         + Promoted and helped implement Agile principles in our team such as daily stand-ups, sprints, planning and retro meetings.
@@ -96,7 +96,8 @@ projects:
   display: true
   title: Pet Projects
   intro: |
-    Audio visualiser website / MMORPG Game server
+    + Audio visualiser website - Built using TypeScript and the HTML5 Canvas API to render real-time, browser-based audio visualizations.
+    + MMORPG Game server - Host, maintain and develop a multiplayer game backend in Java with companion website and mail server.
 
   # items:
   #   - name: Foo
