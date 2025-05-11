@@ -50,7 +50,7 @@ experiences:
         + Facilitated iOS Guild meetings. This allowed developers of our company to align with each other and learn, leading to improved consistency and fewer bugs.
         + Developed a company-wide tutorial library for in-app tooltips, enhancing user onboarding, accelerating new feature adoption, and reducing support inquiries—ultimately improving client satisfaction and product perception.
         + Reduced iOS app build times by 5x through optimization of build tools, significantly speeding up development feedback loops.
-        + Increased test pipeline success rate from 40% to 100%. This greatly reduced waiting times from commit to merge.
+        + Increased test pipeline success rate from 50% to 95%. This greatly reduced waiting times from commit to merge.
         + Developed and maintained Go and Swift microservices responsible for core calculations. This allowed millions of users to order food 24/7.
         + Established company-wide iOS coding standards enforced by lint. This reduced overall code-review time which resulted in faster feature delivery.
        
