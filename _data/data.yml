@@ -62,10 +62,10 @@ experiences:
       location: Vilnius, Lithuania
       details: |
         + Developed and maintained a cryptocurrency exchange web app using React, serving thousands of users and enabling seamless asset management and investment.
-        + Developed and maintained GraphQL Node.Js service which made data from back end services structured and easily accessible by front end applications.
+        + Developed and maintained GraphQL Node.js service which made data from back end services structured and easily accessible by front end applications.
         + Ideated and created a design library using Storybook, Vite, GitHub workflows. This significantly decreased the designing time of new pages, made UI style consistent among all company products and improved the quality of UI components by making them easily testable.
         + Engineered live data feed by using WebSockets, RabbitMQ and GraphQL — reducing server load and increasing real-time app responsiveness.
-        + Devised crypto arbitrage bot by using Node.JS and React which made 5-10% monthly profit.
+        + Devised crypto arbitrage bot by using Node.js and React which made 5-10% monthly profit.
         + Introduced multilanguage support using i18next which increased page accessibility.
         + Designed multi-page forms using Formik for doing KYC, AML checks and accepting business proposals.
         + Updated and maintained CI/CD processes including Bitbucket pipelines, Docker and GKE configurations. This increased system stability and security, decreased build times and allowed adding of new features.
@@ -78,7 +78,7 @@ experiences:
       tag: full-time
       location: Vilnius, Lithuania
       details: |
-        + Developed automated tests for multiple in house solutions using C#.
+        + Developed automated tests for multiple in-house solutions using C#.
         + Created parsers for test results to increase their readability and improve data collection process.
         + Updated pre-commit scripts to make development flow faster.
         
@@ -96,8 +96,8 @@ projects:
   display: true
   title: Pet Projects
   intro: |
-    + Audio visualiser website - Built using TypeScript and the HTML5 Canvas API to render real-time, browser-based audio visualizations.
-    + MMORPG Game server - Host, maintain and develop a multiplayer game backend in Java with companion website and mail server.
+    + Audio visualizer website - Built using TypeScript and the HTML5 Canvas API to render real-time browser-based audio visualizations.
+    + MMORPG Game server - Host, maintain, and develop a multiplayer game backend in Java with persistent world logic, companion website for account management, and a mail server for email notifications and password recovery.
 
   # items:
   #   - name: Foo
