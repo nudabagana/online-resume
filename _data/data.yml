@@ -94,20 +94,20 @@ experiences:
 
 projects:
   display: true
-  title: Projects
+  title: Pet Projects
   intro: |
-    This is all the projects I'm involved in.
+    Audio visualiser website / MMORPG Game server
 
-  items:
-    - name: Foo
-      link: https://www.google.com
-      details: |
-        Project Foo's detail, you can write markdown format text.
+  # items:
+  #   - name: Foo
+  #     link: https://www.google.com
+  #     details: |
+  #       Project Foo's detail, you can write markdown format text.
 
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
+  #   - name: Bar
+  #     link:
+  #     details: |
+  #       Project Bar's detail, you can write markdown format text.
 
 skills:
   display: true
