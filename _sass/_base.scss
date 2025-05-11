@@ -110,9 +110,10 @@ small {
             }
 
             .title {
-                color: $text-second-color;
+                color: $text-third-colo;
                 font-size: $middle-font-size;
                 font-weight: $base-font-weight;
+                font-style: italic;
                 margin-top: 0;
                 margin-bottom: $spacing-unit / 4;
             }
