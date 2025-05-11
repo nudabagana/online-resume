@@ -1,5 +1,6 @@
 basic:
   name: Matas Ramanauskas
+  title: Engineer who values simplicity, business impact, and the joy of building.
   avatar:
     display: true
     path: profile.png
@@ -25,7 +26,7 @@ contact:
   goodreads:
 
 profile:
-  display: true
+  display: false
   title: Profile
   details: |
     It's your career profile, you can wirte markdown format text.
