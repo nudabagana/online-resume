@@ -93,7 +93,7 @@ experiences:
 
 
 projects:
-  display: false
+  display: true
   title: Projects
   intro: |
     This is all the projects I'm involved in.
